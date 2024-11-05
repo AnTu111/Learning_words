@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|c:\\users\\admin\\desktop\\mobileapp-master\\learn a language\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|c:\\users\\admin\\desktop\\mobileapp-master\\learn a language\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|c:\\users\\admin\\desktop\\mobileapp-master\\learn a language\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|solutionrelative:word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|c:\\users\\admin\\desktop\\mobileapp-master\\learn a language\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|c:\\users\\admin\\desktop\\mobileapp-master\\learn a language\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236AEE8B-78AD-464D-A44B-EA501D148C6E}|Learn a language.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T21:13:42.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\Word.cs",
+              "RelativeDocumentMoniker": "Word.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\Word.cs",
+              "RelativeToolTip": "Word.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:43:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAvwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T21:56:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:05:44.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MobileApp-master\\Learn a language\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:43:49.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
